@@ -3,10 +3,9 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [1.2.2] - 2022-05-12
+## [1.2.2] - 2022-04-29
 
 * Minor patch release to fix Conda environment and enable DSL1 by default in the `nextflow.config`.
-
 ### `Dependencies`
 
 * Update r-base `3.6.2` -> `3.6.3`
